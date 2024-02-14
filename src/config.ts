@@ -6,8 +6,8 @@ type Config = {
 }
 
 export default {
-  author: 'Samuel Breznjak',
-  title: 'Minimal - Astro blog theme',
-  description: 'Minimalistic blog theme for astro',
-  lang: 'en',
+  author: 'seunghwan yeo',
+  title: 'devlog - seunghwan blog',
+  description: 'my dev log',
+  lang: 'ko',
 } satisfies Config
